@@ -29,7 +29,7 @@ Voto = ''
 Voto1 = 0
 Voto2 = 0
 
-# começo:
+# começo
 
 print('\n2º LABORATÓRIO DE LPA\n')
 Z = str(input('Identificação da Seção e Zona Eleitoral: '))
