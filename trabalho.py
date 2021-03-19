@@ -4,7 +4,7 @@ maiorp = 'SEM VOTOS'
 maiorv = 'SEM VOTOS'
 faltas = 0
 
-# Candidatos a Prefeitos:
+# Candidatos a Prefeitos
 C1 = 0
 C2 = 0
 C3 = 0
@@ -12,7 +12,7 @@ C4 = 0
 VBP = 0
 VNP = 0
 Z = ''
-# Candidatos a Vereador:
+# Candidatos a Vereador
 
 V1 = 0
 V2 = 0
@@ -38,7 +38,7 @@ C = int(input('Código de Identificação da Urna Eletrônica: '))
 P = ''
 V = ''
 
-# Eleitores:
+# Eleitores
 NumEl = 1
 E = 0
 cont = 1
