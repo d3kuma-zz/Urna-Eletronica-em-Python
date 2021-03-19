@@ -1,10 +1,10 @@
-# Variaveis
+#Variaveis
 
 maiorp = 'SEM VOTOS'
 maiorv = 'SEM VOTOS'
 faltas = 0
 
-# Candidatos a Prefeitos
+#Candidatos a Prefeitos
 C1 = 0
 C2 = 0
 C3 = 0
@@ -12,7 +12,8 @@ C4 = 0
 VBP = 0
 VNP = 0
 Z = ''
-# Candidatos a Vereador
+
+#Candidatos a Vereador
 
 V1 = 0
 V2 = 0
@@ -21,7 +22,7 @@ V4 = 0
 VBV = 0
 VNV = 0
 
-# Empate
+#Empate
 empate = 0
 Cand1 = ''
 Cand2 = ''
@@ -29,7 +30,7 @@ Voto = ''
 Voto1 = 0
 Voto2 = 0
 
-# começo
+#Código
 
 print('\n2º LABORATÓRIO DE LPA\n')
 Z = str(input('Identificação da Seção e Zona Eleitoral: '))
