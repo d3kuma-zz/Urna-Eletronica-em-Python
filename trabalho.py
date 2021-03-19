@@ -21,7 +21,7 @@ V4 = 0
 VBV = 0
 VNV = 0
 
-# empate
+# Empate
 empate = 0
 Cand1 = ''
 Cand2 = ''
