@@ -5,22 +5,11 @@ maiorv = 'SEM VOTOS'
 faltas = 0
 
 #Candidatos a Prefeitos
-C1 = 0
-C2 = 0
-C3 = 0
-C4 = 0
-VBP = 0
-VNP = 0
+C1 = C2 = C3 = C4 = VBP = VNP = 0
 Z = ''
 
 #Candidatos a Vereador
-
-V1 = 0
-V2 = 0
-V3 = 0
-V4 = 0
-VBV = 0
-VNV = 0
+V1 = V2 = V3 = V4 = VBV = VNV = 0
 
 #Empate
 empate = 0
